@@ -38,6 +38,7 @@ Suggested inventory optimization for low-profit items
 
 ## Interactive Dashboard
 <a href="https://github.com/zarin7/Sales-DataAnalysis-Dashboard/blob/main/FirstSalesDashboard.JPG">View Dashboard</a>
+<a href="https://github.com/zarin7/Sales-DataAnalysis-Dashboard/blob/main/Interactive%20Dashboard%20File%20in%20Excel.xlsx"> Dashboard Excel File</a>
 
 ## Tools Used: Excel (Power Query, Pivot Tables, Charts, Data Model)
 
